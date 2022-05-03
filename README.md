@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## LING CHEN
 
-You can use the [editor on GitHub](https://github.com/lingthebell/lingthebell.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Over 12 years of experience in storage, with expertise in SSD firmware and process developments, seeking a challenging engineering position in a team where I can bring the maximum contribution and grow
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## EDUCATION
+University of California, Berkeley (2005-2009)
+- Bachelor of Science, Electrical Engineering and Computer Science (EECS)
+- Minor: Education
+- Certificate: Management of Engineering and Innovation
 
-### Markdown
+## SKILLS
+- Programming Languages: C/C++, Python, CMake, Batch, Shell, Assembly
+- Tools: Niagra, JIRA, NVMe-cli, Lauterbach TRACE32, GDB, Git, VS Code, SVN, Code Collaborator, BusTrace
+- Process: trained in Agile software development process cycle (SAFe framework)
+- Bilingual: Chinese Mandarin (fluent in reading/writing/speaking)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## EXPERIENCES
+### Principal Firmware Engineer
+Western Digital | Milpitas, CA | May 2016 to Present
+- Designed and developed firmware for enterprise SSD in various core firmware components
+- Debugged and fixed core firmware features that used the ThreadX multithread real time operating system
+- Lead and designed the resigning of firmware packages with new firmware version 
+- Developed and integrated security features for SecureDrive SSD
+- Provided guidance to Quality Assurance (QA) and White Box Test (WBT) teams for test executions 
+- Collaborated and developed binary compare tool and memory usage map analysis tool
+- Collected and analyzed diagnostic data, debug logs and event data from enterprise solid state drive
+- Worked with Continuous Integration (CI) team to provide interface for producing production key signed Experimental builds for internal test teams
+- Produced X-Server production key signed Experimental and customer Trial firmware packages
+- Developed and debugged firmware build scripts with CMake and Python for the enterprise SSD firmware
+- Collaborated with firmware architects and other engineers to create solutions for SSD devices
+- Worked with teams such as ASIC, Flash Translation Layer (FTL), Host Interface, Peripherals, Flash Manager (FM) to integrate the core firmware components into SSD products
+- Updated and maintained Wiki pages for core firmware team’s knowledge sharing
+- Encouraged positive team dynamic
+- Mentored junior engineers and interns
 
-```markdown
-Syntax highlighted code block
+### Senior/Staff Firmware Engineer
+SanDisk Corporation (acquired by Western Digital) | Milpitas, CA | May 2011 to May 2016
+- Designed and developed firmware for enterprise SSD in the factory and in the field
+- Supported qualification and launch at OEM customers
+- Design and delivered manufacturing process for our contract manufacturer in Asia
+- Supported pilot line locally in Milpitas
+- Developed and maintained regression test farm in Python and Batch
+- Reduced drive self-test time for next generation product
+- Designed and created tools for data analysis
+- Traveled overseas for factory line bring up and debugging customer issues
+- Debugged and fixed field firmware features
+- Implemented SPC4 features per customer specifications
+- Lead team meetings and encouraged positive team dynamic
+- Developed training documents
+- Designed and developed Wiki site for knowledge sharing
+- Received certificate of excellence for exemplary customer service and process enhancements
 
-# Header 1
-## Header 2
-### Header 3
+### Test/Firmware Engineer
+Pliant Technology (acquired by SanDisk) | Milpitas, CA | Oct 2009 to May 2011
+- Developed tools for use on the enterprise SSD production line
+- Automated test data collection and analysis
+- Developed test scripts and provided support in enterprise customer qualifications
+- Designed and developed build server with PHP frontend and Python backend
+- Designed and developed test servers using Batch
+- Assisted with failure analysis and procedure documentations
+- Mentored new hires
 
-- Bulleted
-- List
+## CONTACT
+Location: San Jose, California
 
-1. Numbered
-2. List
+Email: <lingchen@berkeley.edu>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lingthebell/lingthebell.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
