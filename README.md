@@ -18,7 +18,7 @@ University of California, Berkeley (2005-2009)
 ### Principal Firmware Engineer
 Western Digital | Milpitas, CA | May 2016 to Present
 - Designed and developed firmware for enterprise SSD in various core firmware components
-- Debugged and fixed core firmware features that used the ThreadX multithread real time operating system (RTOS)
+- Debugged and fixed core firmware features that used the ThreadX RTOS
 - Lead and designed the resigning of firmware packages with new firmware version 
 - Developed and integrated security features for SecureDrive SSD
 - Provided guidance to Quality Assurance (QA) and White Box Test (WBT) teams for test executions 
@@ -26,7 +26,7 @@ Western Digital | Milpitas, CA | May 2016 to Present
 - Collected and analyzed diagnostic data, debug logs and event data from enterprise solid state drive
 - Worked with Continuous Integration (CI) team to provide interface for producing production key signed Experimental builds for internal test teams
 - Produced X-Server production key signed Experimental and customer Trial firmware packages
-- Developed and debugged firmware build scripts with CMake and Python for the enterprise SSD firmware
+- Developed and debugged firmware build scripts with CMake and Python for enterprise SSD firmware
 - Collaborated with firmware architects and other engineers to create solutions for SSD devices
 - Worked with teams such as ASIC, Flash Translation Layer (FTL), Host Interface, Peripherals, Flash Manager (FM) to integrate the core firmware components into SSD products
 - Updated and maintained Wiki pages for core firmware team’s knowledge sharing
