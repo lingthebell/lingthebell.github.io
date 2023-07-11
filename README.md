@@ -59,9 +59,3 @@ Pliant Technology (acquired by SanDisk) | Milpitas, CA | Oct 2009 to May 2011
 - Designed and developed test servers using Batch
 - Assisted with failure analysis and procedure documentations
 - Mentored new hires
-
-## CONTACT
-Location: San Jose, California
-
-Email: <lingchen@berkeley.edu>
-
