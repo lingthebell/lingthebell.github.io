@@ -1,4 +1,4 @@
-## Summary
+## LING CHEN
 
 Over 13 years of experience in storage, with expertise in SSD firmware and process developments, seeking a challenging engineering position in a team where I can bring the maximum contribution and grow
 
